@@ -1,0 +1,442 @@
+[
+    {
+        "date": "2024-06-10 03:00:00+00:00",
+        "temperature": {
+            "temp": 14.44,
+            "temp_max": 15.62,
+            "temp_min": 14.44,
+            "feels_like": 13.66,
+            "temp_kf": -1.18
+        },
+        "status": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c"
+    },
+    {
+        "date": "2024-06-10 06:00:00+00:00",
+        "temperature": {
+            "temp": 17.18,
+            "temp_max": 18.84,
+            "temp_min": 17.18,
+            "feels_like": 16.57,
+            "temp_kf": -1.66
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-10 09:00:00+00:00",
+        "temperature": {
+            "temp": 22.35,
+            "temp_kf": -273.15,
+            "temp_max": 22.35,
+            "temp_min": 22.35,
+            "feels_like": 22.13
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-10 12:00:00+00:00",
+        "temperature": {
+            "temp": 22.88,
+            "temp_kf": -273.15,
+            "temp_max": 22.88,
+            "temp_min": 22.88,
+            "feels_like": 22.69
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-10 15:00:00+00:00",
+        "temperature": {
+            "temp": 21.77,
+            "temp_kf": -273.15,
+            "temp_max": 21.77,
+            "temp_min": 21.77,
+            "feels_like": 21.78
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-10 18:00:00+00:00",
+        "temperature": {
+            "temp": 18.36,
+            "temp_kf": -273.15,
+            "temp_max": 18.36,
+            "temp_min": 18.36,
+            "feels_like": 18.5
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-10 21:00:00+00:00",
+        "temperature": {
+            "temp": 17.26,
+            "temp_kf": -273.15,
+            "temp_max": 17.26,
+            "temp_min": 17.26,
+            "feels_like": 17.29
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 00:00:00+00:00",
+        "temperature": {
+            "temp": 16.96,
+            "temp_kf": -273.15,
+            "temp_max": 16.96,
+            "temp_min": 16.96,
+            "feels_like": 17.09
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 03:00:00+00:00",
+        "temperature": {
+            "temp": 17.92,
+            "temp_kf": -273.15,
+            "temp_max": 17.92,
+            "temp_min": 17.92,
+            "feels_like": 18.07
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 06:00:00+00:00",
+        "temperature": {
+            "temp": 21.53,
+            "temp_kf": -273.15,
+            "temp_max": 21.53,
+            "temp_min": 21.53,
+            "feels_like": 21.72
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 09:00:00+00:00",
+        "temperature": {
+            "temp": 22.7,
+            "temp_kf": -273.15,
+            "temp_max": 22.7,
+            "temp_min": 22.7,
+            "feels_like": 22.85
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 12:00:00+00:00",
+        "temperature": {
+            "temp": 23.61,
+            "temp_kf": -273.15,
+            "temp_max": 23.61,
+            "temp_min": 23.61,
+            "feels_like": 23.96
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 15:00:00+00:00",
+        "temperature": {
+            "temp": 22.38,
+            "temp_kf": -273.15,
+            "temp_max": 22.38,
+            "temp_min": 22.38,
+            "feels_like": 22.79
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 18:00:00+00:00",
+        "temperature": {
+            "temp": 19.91,
+            "temp_kf": -273.15,
+            "temp_max": 19.91,
+            "temp_min": 19.91,
+            "feels_like": 20.33
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-11 21:00:00+00:00",
+        "temperature": {
+            "temp": 18.9,
+            "temp_kf": -273.15,
+            "temp_max": 18.9,
+            "temp_min": 18.9,
+            "feels_like": 19.3
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 00:00:00+00:00",
+        "temperature": {
+            "temp": 18.11,
+            "temp_kf": -273.15,
+            "temp_max": 18.11,
+            "temp_min": 18.11,
+            "feels_like": 18.51
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 03:00:00+00:00",
+        "temperature": {
+            "temp": 17.67,
+            "temp_kf": -273.15,
+            "temp_max": 17.67,
+            "temp_min": 17.67,
+            "feels_like": 18.03
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 06:00:00+00:00",
+        "temperature": {
+            "temp": 19.99,
+            "temp_kf": -273.15,
+            "temp_max": 19.99,
+            "temp_min": 19.99,
+            "feels_like": 20.29
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 09:00:00+00:00",
+        "temperature": {
+            "temp": 22.28,
+            "temp_kf": -273.15,
+            "temp_max": 22.28,
+            "temp_min": 22.28,
+            "feels_like": 22.6
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 12:00:00+00:00",
+        "temperature": {
+            "temp": 24.0,
+            "temp_kf": -273.15,
+            "temp_max": 24.0,
+            "temp_min": 24.0,
+            "feels_like": 24.34
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 15:00:00+00:00",
+        "temperature": {
+            "temp": 24.08,
+            "temp_kf": -273.15,
+            "temp_max": 24.08,
+            "temp_min": 24.08,
+            "feels_like": 24.42
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 18:00:00+00:00",
+        "temperature": {
+            "temp": 20.22,
+            "temp_kf": -273.15,
+            "temp_max": 20.22,
+            "temp_min": 20.22,
+            "feels_like": 20.62
+        },
+        "status": "\u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-12 21:00:00+00:00",
+        "temperature": {
+            "temp": 17.69,
+            "temp_kf": -273.15,
+            "temp_max": 17.69,
+            "temp_min": 17.69,
+            "feels_like": 18.0
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-13 00:00:00+00:00",
+        "temperature": {
+            "temp": 15.69,
+            "temp_kf": -273.15,
+            "temp_max": 15.69,
+            "temp_min": 15.69,
+            "feels_like": 15.72
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-13 03:00:00+00:00",
+        "temperature": {
+            "temp": 15.32,
+            "temp_kf": -273.15,
+            "temp_max": 15.32,
+            "temp_min": 15.32,
+            "feels_like": 15.15
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-13 06:00:00+00:00",
+        "temperature": {
+            "temp": 18.73,
+            "temp_kf": -273.15,
+            "temp_max": 18.73,
+            "temp_min": 18.73,
+            "feels_like": 18.25
+        },
+        "status": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c"
+    },
+    {
+        "date": "2024-06-13 09:00:00+00:00",
+        "temperature": {
+            "temp": 21.72,
+            "temp_kf": -273.15,
+            "temp_max": 21.72,
+            "temp_min": 21.72,
+            "feels_like": 21.1
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-13 12:00:00+00:00",
+        "temperature": {
+            "temp": 23.42,
+            "temp_kf": -273.15,
+            "temp_max": 23.42,
+            "temp_min": 23.42,
+            "feels_like": 22.81
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-13 15:00:00+00:00",
+        "temperature": {
+            "temp": 22.2,
+            "temp_kf": -273.15,
+            "temp_max": 22.2,
+            "temp_min": 22.2,
+            "feels_like": 21.57
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-13 18:00:00+00:00",
+        "temperature": {
+            "temp": 19.91,
+            "temp_kf": -273.15,
+            "temp_max": 19.91,
+            "temp_min": 19.91,
+            "feels_like": 19.34
+        },
+        "status": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e"
+    },
+    {
+        "date": "2024-06-13 21:00:00+00:00",
+        "temperature": {
+            "temp": 18.14,
+            "temp_kf": -273.15,
+            "temp_max": 18.14,
+            "temp_min": 18.14,
+            "feels_like": 17.58
+        },
+        "status": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e"
+    },
+    {
+        "date": "2024-06-14 00:00:00+00:00",
+        "temperature": {
+            "temp": 16.85,
+            "temp_kf": -273.15,
+            "temp_max": 16.85,
+            "temp_min": 16.85,
+            "feels_like": 16.34
+        },
+        "status": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e"
+    },
+    {
+        "date": "2024-06-14 03:00:00+00:00",
+        "temperature": {
+            "temp": 17.02,
+            "temp_kf": -273.15,
+            "temp_max": 17.02,
+            "temp_min": 17.02,
+            "feels_like": 16.55
+        },
+        "status": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e"
+    },
+    {
+        "date": "2024-06-14 06:00:00+00:00",
+        "temperature": {
+            "temp": 20.07,
+            "temp_kf": -273.15,
+            "temp_max": 20.07,
+            "temp_min": 20.07,
+            "feels_like": 19.57
+        },
+        "status": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e"
+    },
+    {
+        "date": "2024-06-14 09:00:00+00:00",
+        "temperature": {
+            "temp": 22.05,
+            "temp_kf": -273.15,
+            "temp_max": 22.05,
+            "temp_min": 22.05,
+            "feels_like": 21.43
+        },
+        "status": "\u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u043e\u0436\u0434\u044c"
+    },
+    {
+        "date": "2024-06-14 12:00:00+00:00",
+        "temperature": {
+            "temp": 22.43,
+            "temp_kf": -273.15,
+            "temp_max": 22.43,
+            "temp_min": 22.43,
+            "feels_like": 21.85
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-14 15:00:00+00:00",
+        "temperature": {
+            "temp": 21.81,
+            "temp_kf": -273.15,
+            "temp_max": 21.81,
+            "temp_min": 21.81,
+            "feels_like": 21.22
+        },
+        "status": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c"
+    },
+    {
+        "date": "2024-06-14 18:00:00+00:00",
+        "temperature": {
+            "temp": 17.87,
+            "temp_kf": -273.15,
+            "temp_max": 17.87,
+            "temp_min": 17.87,
+            "feels_like": 17.28
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-14 21:00:00+00:00",
+        "temperature": {
+            "temp": 15.34,
+            "temp_kf": -273.15,
+            "temp_max": 15.34,
+            "temp_min": 15.34,
+            "feels_like": 14.84
+        },
+        "status": "\u043e\u0431\u043b\u0430\u0447\u043d\u043e \u0441 \u043f\u0440\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438"
+    },
+    {
+        "date": "2024-06-15 00:00:00+00:00",
+        "temperature": {
+            "temp": 13.89,
+            "temp_kf": -273.15,
+            "temp_max": 13.89,
+            "temp_min": 13.89,
+            "feels_like": 13.45
+        },
+        "status": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c"
+    }
+]
